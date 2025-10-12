@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">👋 مرحبًا، أنا أيوب (Ayoub)</h1>
 
-<!--
-**ayoubattarih64-art/ayoubattarih64-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 طالب في المعلوميات | مهووس بالتقنية والبرمجة <br>
+  🚀 أتعلم وأطور نفسي كل يوم لأصبح مطورًا محترفًا <br>
+  🌱 أتعلم حاليًا: <b>Python, HTML, CSS, Git & GitHub</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 من أنا؟
+أنا أيوب، عمري 20 سنة، أدرس المعلوميات وأحب كل ما يتعلق بالحاسوب والذكاء الاصطناعي.  
+ولدت وسط التقنية، لذلك أتعلمها بشغف كبير ❤️  
+
+أؤمن أن المبرمج الجيد هو من **يتعلم باستمرار** ويشارك الآخرين ما يعرفه.
+
+---
+
+### ⚙️ المهارات الحالية
+- 💡 معرفة قوية في استخدام الحاسوب وأنظمة التشغيل  
+- 🧰 أدوات أستخدمها يوميًا: **VS Code**, **Git**, **Canva**, **Figma**  
+- 🌐 مهتم بـ: تطوير الويب، الذكاء الاصطناعي، وأمن المعلومات  
+
+---
+
+### 📈 أهدافي القادمة
+✅ تطوير أول موقع شخصي  
+✅ إنشاء مشاريع مفتوحة المصدر هنا على GitHub  
+✅ تعلم JavaScript وPython بعمق  
+✅ الانضمام إلى مجتمع مطورين للمشاركة والتعاون  
+
+---
+
+### 🧰 لغات وأدوات
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode,linux,windows,figma,canva" />
+</p>
+
+---
+
+### 📊 إحصائيات GitHub الخاصة بي
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubattarih64-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubattarih64-art&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 تواصل معي
+<p align="center">
+  <a href="mailto:youremail@gmail.com">📧 Gmail</a> |
+  <a href="https://linkedin.com">💼 LinkedIn</a> |
+  <a href="https://github.com/ayoubattarih64-art">🐙 GitHub</a>
+</p>
+
+---
+
+⭐ **"كل خطوة صغيرة اليوم هي إنجاز كبير غدًا."**
