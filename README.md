@@ -51,8 +51,8 @@
 
 ### 📫 تواصل معي
 <p align="center">
-  <a href="mailto:youremail@gmail.com">📧 Gmail</a> |
-  <a href="https://linkedin.com">💼 LinkedIn</a> |
+  <a href="mailto:20ayoub.att05@gmail.com">📧 Gmail</a> |
+  <a href="https://www.linkedin.com/in/ayoub-attarih/">💼 LinkedIn</a> |
   <a href="https://github.com/ayoubattarih64-art">🐙 GitHub</a>
 </p>
 
