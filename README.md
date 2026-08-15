@@ -27,16 +27,6 @@ I believe that a good developer is someone who **never stops learning, experimen
 
 ---
 
-### 📈 My Goals
-
-* 🚀 Build and publish more real-world projects
-* 🌐 Develop and launch my personal portfolio website
-* 🧠 Deepen my knowledge of **JavaScript and Python**
-* 🛠️ Build meaningful open-source projects on GitHub
-* 🤝 Connect with developers and contribute to the developer community
-
----
-
 ### 🧰 Languages & Tools
 
 <p align="center">
