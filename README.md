@@ -5,89 +5,89 @@
 </p>
 
 <p align="center">
-  I build modern websites, web applications, and browser extensions with clear interfaces, reliable engineering, and thoughtful interaction.
+  I turn ideas into polished, usable software — from modern web applications to browser extensions and productivity tools.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-phi-rose-65.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/ayoub-attarih/">LinkedIn</a>
-  ·
+  <a href="https://portfolio-phi-rose-65.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ayoub-attarih/">LinkedIn</a> ·
   <a href="mailto:ayoub.attarih.64@edu.uiz.ac.ma">Email</a>
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm an Electronics & Systems student from Morocco with a strong interest in software development and modern web technologies.
+I'm an Electronics & Systems student from Morocco focused on software development and modern web technologies.
 
-I enjoy turning ideas into real, usable products — from web applications and personal platforms to browser extensions and productivity tools.
+I enjoy taking a product from an idea to a working, refined experience — thinking about architecture, interface quality, reliability, and the details that make software feel complete.
 
-My current focus is on:
+### What I work with
 
-- TypeScript, React, and Next.js
-- Modern web application development
-- Browser extension engineering with Manifest V3
-- UI implementation and responsive interfaces
-- Testing, architecture, and software quality
+- **Web:** TypeScript, React, Next.js, Tailwind CSS
+- **Browser extensions:** Chrome Extensions, Manifest V3, service workers, Chrome APIs
+- **Engineering:** application architecture, testing, responsive UI, accessibility, Git workflows
+- **Tools:** Git, GitHub, VS Code, Vite, Figma, Canva
 
-I care about building software that is **useful, maintainable, privacy-conscious, and well engineered**.
+### Engineering mindset
 
-## Featured Projects
+> Build things that are useful, understandable, maintainable, and reliable.
 
-### ⏱️ TimePilot
+I care about more than making software *work*. I aim for clear structure, thoughtful UX, privacy-conscious decisions, and verification through testing.
 
-A local-first productivity and time-management Chromium extension.
+---
 
-Built with **React, TypeScript, Tailwind CSS, Vite, and Manifest V3**.
+## 🚀 Featured Projects
 
-- Activities and scheduled reminders
-- Focus sessions and countdown timer
-- Website blocking
-- Routines and productivity insights
-- Light, dark, and system themes
-- Local-first architecture with no accounts or cloud backend
+### ⏱️ [TimePilot](https://github.com/ayoubattarih64-art/TimePilot)
 
-**[View TimePilot →](https://github.com/ayoubattarih64-art/TimePilot)**
+A **local-first productivity and time-management Chromium extension** built with React, TypeScript, Tailwind CSS, Vite, and Manifest V3.
 
-### 🧠 LifeHub
+- Activities, schedules, reminders, focus sessions, timers, routines, and insights
+- Website blocking with `declarativeNetRequest`
+- MV3 service-worker architecture with serialized mutations and alarm reconciliation
+- 85 unit tests plus real-browser CDP audit flows
+- **No accounts · No backend · No cloud · No telemetry · No network requests**
 
-A modular personal platform built with **Next.js**, bringing together several personal tools and experiences in one application.
+### 🧠 [LifeHub](https://github.com/ayoubattarih64-art/lifehub)
 
-**[View LifeHub →](https://github.com/ayoubattarih64-art/lifehub)**
+A modular personal platform built with **Next.js and React**, bringing multiple personal tools and experiences together in one application.
 
-### 🥖 Bread House
+### 🥖 [Bread House](https://github.com/ayoubattarih64-art/bread-house)
 
-A modern bakery web experience focused on presentation, usability, multilingual content, and responsive design.
+A modern bakery web experience focused on **responsive design, presentation, usability, and multilingual content**.
 
-**[View Bread House →](https://github.com/ayoubattarih64-art/bread-house)**
+---
 
-## Technologies
+## 🛠️ Tech Stack
 
-**Languages**
+| Category | Technologies |
+|---|---|
+| Languages | TypeScript · JavaScript · Python · HTML · CSS |
+| Frontend | React · Next.js · Tailwind CSS · Vite |
+| Browser | Chrome Extensions · Manifest V3 · Chrome APIs |
+| Quality | Vitest · ESLint · TypeScript type-checking · Browser testing |
+| Tools | Git · GitHub · VS Code · Figma · Canva |
 
-TypeScript · Python · HTML · CSS
+---
 
-**Frameworks & Libraries**
+## 📌 Currently Improving
 
-React · Next.js · Tailwind CSS · Vite
-
-**Tools & Platforms**
-
-Git · GitHub · VS Code · Figma · Canva · Linux · Windows
-
-## Currently Improving
-
-- Advanced TypeScript
-- React architecture and patterns
+- Advanced TypeScript and React architecture
 - Next.js application development
 - Browser extension engineering
 - Testing and software quality
 - Git & GitHub workflows
+- Building production-quality interfaces
+
+---
+
+## 📂 More Work
+
+You can explore my repositories to see experiments, university work, personal products, and web projects. I use GitHub not only to store code, but to document how I build and improve software.
 
 ---
 
 <p align="center">
-  <i>Building, learning, and improving — one project at a time.</i>
+  <i>Building. Learning. Shipping. Improving.</i>
 </p>
